@@ -1,2 +1,2 @@
 # GA
-The 
+The gait analysis
